@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">给艾敏的一个小账本</string>
+    <string name="app_name">小账本</string>
     <string name="add">添加账目</string>
     <string name="look">查看账目</string>
     <string name="hint_value">0.00</string>
